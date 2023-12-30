@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+h1 {
+  background-color: #f5f678;
+}
+p {
+  background: red;
+  color: white;
+}
